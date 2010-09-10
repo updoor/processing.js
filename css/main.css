@@ -1,6 +1,11 @@
 /* main.js */
 
-body { margin:40px; padding:0px; font-size:12px; }
+body { margin:40px; padding:0px; font-size:12px; background-color:#000; color:#CCC; font-family:arial, sans-serif; }
+
+h1 { color:#FFF; }
+
+a { color:#FFF; text-decoration:none; }
+a:hover { color:#FFF; text-decoration:underline; }
 
 ul.links { margin:0px; margin-top:40px; padding:0px; list-style:none; }
 ul.links li { margin:0px; padding:0px; }
